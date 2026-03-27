@@ -1,0 +1,30 @@
+# Node
+node_modules/
+dist/
+build/
+*.js.map
+
+# Python
+__pycache__/
+*.py[cod]
+*.py
+env/
+.venv/
+ENV/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Next.js
+.next/
+out/
+
+# Logs
+*.log
+npm-debug.log*
